@@ -1,6 +1,6 @@
 
     class Calc {
-        int num1;
+        int num1; //changes are made directly to the maser branch---team lead. 
         int num2;
         int result;
 
