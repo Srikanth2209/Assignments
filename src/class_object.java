@@ -2,7 +2,7 @@
     class Calc {
         int num1;
         int num2;
-        int result;
+        int result; //class_object file code chages to the master branch to form a new branch ---- team member 1.
 
         public void perform() {
             result = num1 + num2;
