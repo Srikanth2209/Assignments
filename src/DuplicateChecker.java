@@ -1,7 +1,6 @@
-
 import java.util.*;
 
-class FindingDup
+class DuplicateChecker
 {
     public static void countDuplicateCharacters(String str)
     {
@@ -32,4 +31,3 @@ class FindingDup
         countDuplicateCharacters(str);
     }
 }
-
